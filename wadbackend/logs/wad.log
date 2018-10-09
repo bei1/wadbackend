@@ -1,0 +1,646 @@
+2017-04-23 15:11:59,521 - wad.py:68 - p9740 - t4256 - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-23 15:11:59,521 - wad.py:70 - p9740 - t4256 - wad - Load Setting Completed
+2017-04-23 15:11:59,526 - wad.py:75 - p9740 - t4256 - wad - Listen on 0.0.0.0:8000
+2017-04-23 15:16:35,870 - wad.py:68 - p11172 - t11664 - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-23 15:16:35,870 - wad.py:70 - p11172 - t11664 - wad - Load Setting Completed
+2017-04-23 15:16:35,875 - wad.py:75 - p11172 - t11664 - wad - Listen on 0.0.0.0:8000
+2017-04-24 17:30:35,369 - wad.py:68 - p7088 - t11344 - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 17:30:35,370 - wad.py:70 - p7088 - t11344 - wad - Load Setting Completed
+2017-04-24 17:30:35,375 - wad.py:75 - p7088 - t11344 - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:08:54,154 - t-1219758336 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:08:54,154 - t-1219758336 - INFO - wad - Load Setting Completed
+2017-04-24 21:08:54,154 - t-1219758336 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:09:53,240 - t-1232123072 - INFO - wad - Accept new connection from 192.168.0.134:6172...
+2017-04-24 21:09:53,240 - t-1232123072 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:09:53,241 - t-1232123072 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:09:53,241 - t-1232123072 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:09:53,257 - t-1232123072 - INFO - wad - create experiment succeed
+2017-04-24 21:09:53,257 - t-1232123072 - INFO - wad - execute function:50
+2017-04-24 21:09:53,301 - t-1232123072 - INFO - wad - ack sent:{"device_id": "4", "group_id": "354", "function_id": "50", "data": "{\"file_name\": \"020201.zip\", \"check\": \"caafeddf6c4bc29a6cc103ea61419a09\"}"}
+2017-04-24 21:09:53,309 - t-1232123072 - INFO - wad - Accept new connection from 192.168.0.134:6173...
+2017-04-24 21:09:53,310 - t-1232123072 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:09:53,310 - t-1232123072 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:09:53,311 - t-1232123072 - INFO - wad - experiment exist
+2017-04-24 21:09:53,311 - t-1232123072 - INFO - wad - execute function:20
+2017-04-24 21:09:53,329 - t-1232123072 - INFO - wad - ack sent:{"device_id": "4", "group_id": "354", "function_id": "20", "data": "{\"state\": 0}"}
+2017-04-24 21:09:53,343 - t-1232123072 - INFO - wad - Accept new connection from 192.168.0.134:6174...
+2017-04-24 21:09:53,343 - t-1232123072 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:09:53,344 - t-1232123072 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:09:53,344 - t-1232123072 - INFO - wad - experiment exist
+2017-04-24 21:09:53,344 - t-1232123072 - INFO - wad - execute function:20
+2017-04-24 21:09:53,350 - t-1232123072 - INFO - wad - ack sent:{"device_id": "4", "group_id": "354", "function_id": "20", "data": "{\"state\": 0}"}
+2017-04-24 21:14:27,290 - t-1219275008 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:14:27,291 - t-1219275008 - INFO - wad - Load Setting Completed
+2017-04-24 21:14:27,292 - t-1219275008 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:14:54,445 - t-1231639744 - INFO - wad - Accept new connection from 192.168.0.134:6253...
+2017-04-24 21:14:54,448 - t-1231639744 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:14:54,448 - t-1231639744 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:14:54,449 - t-1231639744 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:14:54,500 - t-1231639744 - INFO - wad - create experiment succeed
+2017-04-24 21:14:54,500 - t-1231639744 - INFO - wad - execute function:50
+2017-04-24 21:14:54,553 - t-1231639744 - INFO - wad - ack sent:{"data": "{\"check\": \"caafeddf6c4bc29a6cc103ea61419a09\", \"file_name\": \"020201.zip\"}", "device_id": "4", "group_id": "354", "function_id": "50"}
+2017-04-24 21:14:54,679 - t-1231639744 - INFO - wad - Accept new connection from 192.168.0.134:6254...
+2017-04-24 21:14:54,680 - t-1231639744 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:14:54,681 - t-1231639744 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:14:54,681 - t-1231639744 - INFO - wad - experiment exist
+2017-04-24 21:14:54,682 - t-1231639744 - INFO - wad - execute function:20
+2017-04-24 21:14:54,710 - t-1231639744 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "354", "function_id": "20"}
+2017-04-24 21:14:54,801 - t-1231639744 - INFO - wad - Accept new connection from 192.168.0.134:6255...
+2017-04-24 21:14:54,803 - t-1231639744 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:14:54,805 - t-1231639744 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:14:54,807 - t-1231639744 - INFO - wad - experiment exist
+2017-04-24 21:14:54,808 - t-1231639744 - INFO - wad - execute function:20
+2017-04-24 21:14:54,818 - t-1231639744 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "354", "function_id": "20"}
+2017-04-24 21:16:18,172 - t-1219275008 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:16:18,173 - t-1219275008 - INFO - wad - Load Setting Completed
+2017-04-24 21:16:18,173 - t-1219275008 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:16:31,425 - t-1231639744 - INFO - wad - Accept new connection from 192.168.0.134:6279...
+2017-04-24 21:16:31,430 - t-1231639744 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:16:31,431 - t-1231639744 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:16:31,432 - t-1231639744 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:16:31,457 - t-1231639744 - INFO - wad - create experiment succeed
+2017-04-24 21:16:31,457 - t-1231639744 - INFO - wad - execute function:50
+2017-04-24 21:16:31,501 - t-1231639744 - INFO - wad - ack sent:{"function_id": "50", "data": "{\"file_name\": \"020201.zip\", \"check\": \"caafeddf6c4bc29a6cc103ea61419a09\"}", "group_id": "354", "device_id": "4"}
+2017-04-24 21:16:31,521 - t-1231639744 - INFO - wad - Accept new connection from 192.168.0.134:6280...
+2017-04-24 21:16:31,522 - t-1231639744 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:16:31,523 - t-1231639744 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:16:31,524 - t-1231639744 - INFO - wad - experiment exist
+2017-04-24 21:16:31,524 - t-1231639744 - INFO - wad - execute function:20
+2017-04-24 21:16:31,568 - t-1231639744 - INFO - wad - ack sent:{"function_id": "20", "data": "{\"state\": 0}", "group_id": "354", "device_id": "4"}
+2017-04-24 21:16:31,583 - t-1231639744 - INFO - wad - Accept new connection from 192.168.0.134:6281...
+2017-04-24 21:16:31,595 - t-1231639744 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:16:31,596 - t-1231639744 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:16:31,596 - t-1231639744 - INFO - wad - experiment exist
+2017-04-24 21:16:31,596 - t-1231639744 - INFO - wad - execute function:20
+2017-04-24 21:16:31,608 - t-1231639744 - INFO - wad - ack sent:{"function_id": "20", "data": "{\"state\": 0}", "group_id": "354", "device_id": "4"}
+2017-04-24 21:17:22,513 - t-1219864832 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:17:22,513 - t-1219864832 - INFO - wad - Load Setting Completed
+2017-04-24 21:17:22,514 - t-1219864832 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:17:34,528 - t-1232229568 - INFO - wad - Accept new connection from 192.168.0.134:6295...
+2017-04-24 21:17:34,530 - t-1232229568 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:17:34,575 - t-1232229568 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:17:34,578 - t-1232229568 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:17:34,627 - t-1232229568 - INFO - wad - create experiment succeed
+2017-04-24 21:17:34,627 - t-1232229568 - INFO - wad - execute function:50
+2017-04-24 21:17:34,670 - t-1232229568 - INFO - wad - ack sent:{"data": "{\"check\": \"caafeddf6c4bc29a6cc103ea61419a09\", \"file_name\": \"020201.zip\"}", "device_id": "4", "group_id": "354", "function_id": "50"}
+2017-04-24 21:17:34,689 - t-1232229568 - INFO - wad - Accept new connection from 192.168.0.134:6296...
+2017-04-24 21:17:34,690 - t-1232229568 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:17:34,691 - t-1232229568 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:17:34,691 - t-1232229568 - INFO - wad - experiment exist
+2017-04-24 21:17:34,691 - t-1232229568 - INFO - wad - execute function:20
+2017-04-24 21:17:34,712 - t-1232229568 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "354", "function_id": "20"}
+2017-04-24 21:17:34,723 - t-1232229568 - INFO - wad - Accept new connection from 192.168.0.134:6297...
+2017-04-24 21:17:34,723 - t-1232229568 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:17:34,724 - t-1232229568 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:17:34,724 - t-1232229568 - INFO - wad - experiment exist
+2017-04-24 21:17:34,724 - t-1232229568 - INFO - wad - execute function:20
+2017-04-24 21:17:34,729 - t-1232229568 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "354", "function_id": "20"}
+2017-04-24 21:19:37,680 - t-1253049536 - INFO - wad - Accept new connection from 192.168.0.134:6318...
+2017-04-24 21:19:37,680 - t-1253049536 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:19:37,681 - t-1253049536 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:19:37,682 - t-1253049536 - INFO - wad - experiment exist
+2017-04-24 21:19:37,682 - t-1253049536 - INFO - wad - execute function:50
+2017-04-24 21:19:37,711 - t-1253049536 - INFO - wad - ack sent:{"data": "{\"check\": \"fcfac2b1d293674064f3864c9f8ebacd\", \"file_name\": \"020301.zip\"}", "device_id": "4", "group_id": "355", "function_id": "50"}
+2017-04-24 21:19:37,730 - t-1253049536 - INFO - wad - Accept new connection from 192.168.0.134:6319...
+2017-04-24 21:19:37,731 - t-1253049536 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:19:37,731 - t-1253049536 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:19:37,733 - t-1253049536 - INFO - wad - experiment exist
+2017-04-24 21:19:37,734 - t-1253049536 - INFO - wad - execute function:20
+2017-04-24 21:19:37,744 - t-1253049536 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "355", "function_id": "20"}
+2017-04-24 21:19:37,754 - t-1253049536 - INFO - wad - Accept new connection from 192.168.0.134:6320...
+2017-04-24 21:19:37,757 - t-1253049536 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:19:37,758 - t-1253049536 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:19:37,758 - t-1253049536 - INFO - wad - experiment exist
+2017-04-24 21:19:37,758 - t-1253049536 - INFO - wad - execute function:20
+2017-04-24 21:19:37,761 - t-1253049536 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "355", "function_id": "20"}
+2017-04-24 21:22:48,706 - t-1219664128 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:22:48,706 - t-1219664128 - INFO - wad - Load Setting Completed
+2017-04-24 21:22:48,706 - t-1219664128 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:23:23,315 - t-1232028864 - INFO - wad - Accept new connection from 192.168.0.134:6372...
+2017-04-24 21:23:23,315 - t-1232028864 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:23:23,316 - t-1232028864 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:23:23,317 - t-1232028864 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:23:23,338 - t-1232028864 - INFO - wad - create experiment succeed
+2017-04-24 21:23:23,339 - t-1232028864 - INFO - wad - execute function:50
+2017-04-24 21:23:23,386 - t-1232028864 - INFO - wad - ack sent:{"data": "{\"file_name\": \"020301.zip\", \"check\": \"fcfac2b1d293674064f3864c9f8ebacd\"}", "function_id": "50", "device_id": "4", "group_id": "355"}
+2017-04-24 21:23:23,393 - t-1232028864 - INFO - wad - Accept new connection from 192.168.0.134:6373...
+2017-04-24 21:23:23,394 - t-1232028864 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:23:23,395 - t-1232028864 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:23:23,395 - t-1232028864 - INFO - wad - experiment exist
+2017-04-24 21:23:23,395 - t-1232028864 - INFO - wad - execute function:20
+2017-04-24 21:23:23,421 - t-1232028864 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "355"}
+2017-04-24 21:23:23,437 - t-1232028864 - INFO - wad - Accept new connection from 192.168.0.134:6374...
+2017-04-24 21:23:23,438 - t-1232028864 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:23:23,438 - t-1232028864 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:23:23,439 - t-1232028864 - INFO - wad - experiment exist
+2017-04-24 21:23:23,439 - t-1232028864 - INFO - wad - execute function:20
+2017-04-24 21:23:23,443 - t-1232028864 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "355"}
+2017-04-24 21:26:04,218 - t-1262486720 - INFO - wad - Accept new connection from 192.168.0.134:6405...
+2017-04-24 21:26:04,220 - t-1262486720 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:26:04,221 - t-1262486720 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:26:04,221 - t-1262486720 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:26:04,416 - t-1262486720 - INFO - wad - create experiment succeed
+2017-04-24 21:26:04,417 - t-1262486720 - INFO - wad - execute function:50
+2017-04-24 21:26:07,470 - t-1262486720 - INFO - wad - ack sent:{"data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}", "function_id": "50", "device_id": "4", "group_id": "356"}
+2017-04-24 21:26:07,479 - t-1262486720 - INFO - wad - Accept new connection from 192.168.0.134:6407...
+2017-04-24 21:26:07,480 - t-1262486720 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:26:07,480 - t-1262486720 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:26:07,480 - t-1262486720 - INFO - wad - experiment exist
+2017-04-24 21:26:07,480 - t-1262486720 - INFO - wad - execute function:20
+2017-04-24 21:26:07,691 - t-1262486720 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "356"}
+2017-04-24 21:26:07,698 - t-1262486720 - INFO - wad - Accept new connection from 192.168.0.134:6408...
+2017-04-24 21:26:07,699 - t-1262486720 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:26:07,700 - t-1262486720 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:26:07,700 - t-1262486720 - INFO - wad - experiment exist
+2017-04-24 21:26:07,700 - t-1262486720 - INFO - wad - execute function:20
+2017-04-24 21:26:07,703 - t-1262486720 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "356"}
+2017-04-24 21:31:29,514 - t-1241896128 - INFO - wad - Accept new connection from 192.168.0.134:6470...
+2017-04-24 21:31:29,519 - t-1241896128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:31:29,519 - t-1241896128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:31:29,519 - t-1241896128 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:31:29,839 - t-1241896128 - INFO - wad - create experiment succeed
+2017-04-24 21:31:29,841 - t-1241896128 - INFO - wad - execute function:50
+2017-04-24 21:31:32,633 - t-1241896128 - INFO - wad - ack sent:{"data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}", "function_id": "50", "device_id": "4", "group_id": "356"}
+2017-04-24 21:31:32,655 - t-1241896128 - INFO - wad - Accept new connection from 192.168.0.134:6474...
+2017-04-24 21:31:32,656 - t-1241896128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:32,656 - t-1241896128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:32,658 - t-1241896128 - INFO - wad - experiment exist
+2017-04-24 21:31:32,658 - t-1241896128 - INFO - wad - execute function:20
+2017-04-24 21:31:32,761 - t-1241896128 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "356"}
+2017-04-24 21:31:32,772 - t-1241896128 - INFO - wad - Accept new connection from 192.168.0.134:6475...
+2017-04-24 21:31:32,772 - t-1241896128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:32,772 - t-1241896128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:32,773 - t-1241896128 - INFO - wad - experiment exist
+2017-04-24 21:31:32,773 - t-1241896128 - INFO - wad - execute function:20
+2017-04-24 21:31:32,776 - t-1241896128 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "356"}
+2017-04-24 21:31:50,879 - t-1241896128 - INFO - wad - Accept new connection from 192.168.0.134:6480...
+2017-04-24 21:31:50,880 - t-1241896128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:31:50,880 - t-1241896128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:31:50,880 - t-1241896128 - INFO - wad - experiment exist
+2017-04-24 21:31:50,881 - t-1241896128 - INFO - wad - execute function:50
+2017-04-24 21:31:54,414 - t-1241896128 - INFO - wad - ack sent:{"data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}", "function_id": "50", "device_id": "4", "group_id": "356"}
+2017-04-24 21:31:54,448 - t-1241896128 - INFO - wad - Accept new connection from 192.168.0.134:6482...
+2017-04-24 21:31:54,449 - t-1241896128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:54,461 - t-1241896128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:54,464 - t-1241896128 - INFO - wad - experiment exist
+2017-04-24 21:31:54,464 - t-1241896128 - INFO - wad - execute function:20
+2017-04-24 21:31:54,681 - t-1241896128 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "356"}
+2017-04-24 21:31:54,690 - t-1241896128 - INFO - wad - Accept new connection from 192.168.0.134:6483...
+2017-04-24 21:31:54,691 - t-1241896128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:54,692 - t-1241896128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:31:54,692 - t-1241896128 - INFO - wad - experiment exist
+2017-04-24 21:31:54,693 - t-1241896128 - INFO - wad - execute function:20
+2017-04-24 21:31:54,697 - t-1241896128 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "356"}
+2017-04-24 21:32:36,866 - t-1262486720 - INFO - wad - Accept new connection from 192.168.0.134:6493...
+2017-04-24 21:32:36,868 - t-1262486720 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:32:36,869 - t-1262486720 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:32:36,870 - t-1262486720 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:32:37,117 - t-1262486720 - INFO - wad - create experiment succeed
+2017-04-24 21:32:37,118 - t-1262486720 - INFO - wad - execute function:50
+2017-04-24 21:32:40,399 - t-1262486720 - INFO - wad - ack sent:{"data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}", "function_id": "50", "device_id": "4", "group_id": "356"}
+2017-04-24 21:32:46,718 - t-1219901696 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:32:46,718 - t-1219901696 - INFO - wad - Load Setting Completed
+2017-04-24 21:32:46,719 - t-1219901696 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:32:47,446 - t-1232266432 - INFO - wad - Accept new connection from 192.168.0.134:6498...
+2017-04-24 21:32:47,448 - t-1232266432 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:32:47,449 - t-1232266432 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:32:47,449 - t-1232266432 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:32:47,589 - t-1232266432 - INFO - wad - create experiment succeed
+2017-04-24 21:32:47,590 - t-1232266432 - INFO - wad - execute function:50
+2017-04-24 21:32:50,931 - t-1232266432 - INFO - wad - ack sent:{"group_id": "356", "function_id": "50", "device_id": "4", "data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}"}
+2017-04-24 21:32:50,938 - t-1232266432 - INFO - wad - Accept new connection from 192.168.0.134:6500...
+2017-04-24 21:32:50,939 - t-1232266432 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:32:50,939 - t-1232266432 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:32:50,940 - t-1232266432 - INFO - wad - experiment exist
+2017-04-24 21:32:50,940 - t-1232266432 - INFO - wad - execute function:20
+2017-04-24 21:32:51,042 - t-1232266432 - INFO - wad - ack sent:{"group_id": "356", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:32:51,056 - t-1232266432 - INFO - wad - Accept new connection from 192.168.0.134:6501...
+2017-04-24 21:32:51,057 - t-1232266432 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:32:51,058 - t-1232266432 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:32:51,058 - t-1232266432 - INFO - wad - experiment exist
+2017-04-24 21:32:51,058 - t-1232266432 - INFO - wad - execute function:20
+2017-04-24 21:32:51,062 - t-1232266432 - INFO - wad - ack sent:{"group_id": "356", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:32:59,157 - t-1232266432 - INFO - wad - Accept new connection from 192.168.0.134:6504...
+2017-04-24 21:32:59,159 - t-1232266432 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:32:59,160 - t-1232266432 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:32:59,160 - t-1232266432 - INFO - wad - experiment exist
+2017-04-24 21:32:59,161 - t-1232266432 - INFO - wad - execute function:50
+2017-04-24 21:33:02,435 - t-1232266432 - INFO - wad - ack sent:{"group_id": "356", "function_id": "50", "device_id": "4", "data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}"}
+2017-04-24 21:33:02,455 - t-1232266432 - INFO - wad - Accept new connection from 192.168.0.134:6505...
+2017-04-24 21:33:02,461 - t-1232266432 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:33:02,472 - t-1232266432 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:33:02,473 - t-1232266432 - INFO - wad - experiment exist
+2017-04-24 21:33:02,473 - t-1232266432 - INFO - wad - execute function:20
+2017-04-24 21:33:02,580 - t-1232266432 - INFO - wad - ack sent:{"group_id": "356", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:33:02,586 - t-1232266432 - INFO - wad - Accept new connection from 192.168.0.134:6506...
+2017-04-24 21:33:02,587 - t-1232266432 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:33:02,587 - t-1232266432 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:33:02,587 - t-1232266432 - INFO - wad - experiment exist
+2017-04-24 21:33:02,587 - t-1232266432 - INFO - wad - execute function:20
+2017-04-24 21:33:02,590 - t-1232266432 - INFO - wad - ack sent:{"group_id": "356", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:34:18,192 - t-1253049536 - INFO - wad - Accept new connection from 192.168.0.134:6521...
+2017-04-24 21:34:18,193 - t-1253049536 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:34:18,193 - t-1253049536 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:34:18,194 - t-1253049536 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:34:18,555 - t-1253049536 - INFO - wad - create experiment succeed
+2017-04-24 21:34:18,556 - t-1253049536 - INFO - wad - execute function:50
+2017-04-24 21:34:22,548 - t-1253049536 - INFO - wad - ack sent:{"group_id": "356", "function_id": "50", "device_id": "4", "data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}"}
+2017-04-24 21:34:22,559 - t-1253049536 - INFO - wad - Accept new connection from 192.168.0.134:6525...
+2017-04-24 21:34:22,560 - t-1253049536 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:34:22,562 - t-1253049536 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:34:22,564 - t-1253049536 - INFO - wad - experiment exist
+2017-04-24 21:34:22,566 - t-1253049536 - INFO - wad - execute function:20
+2017-04-24 21:34:22,754 - t-1253049536 - INFO - wad - ack sent:{"group_id": "356", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:34:22,762 - t-1253049536 - INFO - wad - Accept new connection from 192.168.0.134:6526...
+2017-04-24 21:34:22,763 - t-1253049536 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:34:22,765 - t-1253049536 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:34:22,766 - t-1253049536 - INFO - wad - experiment exist
+2017-04-24 21:34:22,766 - t-1253049536 - INFO - wad - execute function:20
+2017-04-24 21:34:22,772 - t-1253049536 - INFO - wad - ack sent:{"group_id": "356", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:35:28,965 - t-1242563776 - INFO - wad - Accept new connection from 192.168.0.134:6538...
+2017-04-24 21:35:28,966 - t-1242563776 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"353","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-24 21:35:28,967 - t-1242563776 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"353","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-24 21:35:28,968 - t-1242563776 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:35:29,293 - t-1242563776 - INFO - wad - create experiment succeed
+2017-04-24 21:35:29,294 - t-1242563776 - INFO - wad - execute function:50
+2017-04-24 21:35:32,549 - t-1242563776 - INFO - wad - ack sent:{"group_id": "353", "function_id": "50", "device_id": "4", "data": "{\"file_name\": \"030201.zip\", \"check\": \"1cf352e21db52b128aadc02fb6207d4c\"}"}
+2017-04-24 21:35:32,559 - t-1242563776 - INFO - wad - Accept new connection from 192.168.0.134:6539...
+2017-04-24 21:35:32,560 - t-1242563776 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"353","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:35:32,560 - t-1242563776 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"353","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:35:32,561 - t-1242563776 - INFO - wad - experiment exist
+2017-04-24 21:35:32,561 - t-1242563776 - INFO - wad - execute function:20
+2017-04-24 21:35:32,795 - t-1242563776 - INFO - wad - ack sent:{"group_id": "353", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:35:32,800 - t-1242563776 - INFO - wad - Accept new connection from 192.168.0.134:6540...
+2017-04-24 21:35:32,800 - t-1242563776 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"353","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:35:32,801 - t-1242563776 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"353","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:35:32,802 - t-1242563776 - INFO - wad - experiment exist
+2017-04-24 21:35:32,802 - t-1242563776 - INFO - wad - execute function:20
+2017-04-24 21:35:32,808 - t-1242563776 - INFO - wad - ack sent:{"group_id": "353", "function_id": "20", "device_id": "4", "data": "{\"state\": 0}"}
+2017-04-24 21:38:12,872 - t-1219680512 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:38:12,872 - t-1219680512 - INFO - wad - Load Setting Completed
+2017-04-24 21:38:12,872 - t-1219680512 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:38:35,972 - t-1232045248 - INFO - wad - Accept new connection from 192.168.0.134:6581...
+2017-04-24 21:38:35,973 - t-1232045248 - INFO - wad - receiving :b'{"device_id":"0","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:38:36,978 - t-1232045248 - INFO - wad - receive data completed :b'{"device_id":"0","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:38:36,978 - t-1232045248 - ERROR - wad - timed out
+2017-04-24 21:38:36,979 - t-1232045248 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:38:36,999 - t-1232045248 - INFO - wad - create experiment succeed
+2017-04-24 21:38:36,999 - t-1232045248 - INFO - wad - execute function:50
+2017-04-24 21:38:37,048 - t-1232045248 - INFO - wad - ack sent:{"group_id": "354", "data": "{\"check\": \"caafeddf6c4bc29a6cc103ea61419a09\", \"file_name\": \"020201.zip\"}", "function_id": "50", "device_id": "0"}
+2017-04-24 21:40:57,837 - t-1232045248 - INFO - wad - Accept new connection from 192.168.0.134:6639...
+2017-04-24 21:40:57,838 - t-1232045248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:40:57,840 - t-1232045248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-24 21:40:57,840 - t-1232045248 - INFO - wad - experiment exist
+2017-04-24 21:40:57,841 - t-1232045248 - INFO - wad - execute function:50
+2017-04-24 21:40:57,871 - t-1232045248 - INFO - wad - ack sent:{"group_id": "354", "data": "{\"check\": \"caafeddf6c4bc29a6cc103ea61419a09\", \"file_name\": \"020201.zip\"}", "function_id": "50", "device_id": "4"}
+2017-04-24 21:40:57,887 - t-1232045248 - INFO - wad - Accept new connection from 192.168.0.134:6640...
+2017-04-24 21:40:57,887 - t-1232045248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:40:57,888 - t-1232045248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:40:57,888 - t-1232045248 - INFO - wad - experiment exist
+2017-04-24 21:40:57,888 - t-1232045248 - INFO - wad - execute function:20
+2017-04-24 21:40:57,954 - t-1232045248 - INFO - wad - ack sent:{"group_id": "354", "data": "{\"state\": 0}", "function_id": "20", "device_id": "4"}
+2017-04-24 21:40:57,983 - t-1232045248 - INFO - wad - Accept new connection from 192.168.0.134:6641...
+2017-04-24 21:40:57,983 - t-1232045248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:40:57,983 - t-1232045248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:40:57,984 - t-1232045248 - INFO - wad - experiment exist
+2017-04-24 21:40:57,984 - t-1232045248 - INFO - wad - execute function:20
+2017-04-24 21:40:57,989 - t-1232045248 - INFO - wad - ack sent:{"group_id": "354", "data": "{\"state\": 0}", "function_id": "20", "device_id": "4"}
+2017-04-24 21:43:47,473 - t-1232045248 - INFO - wad - Accept new connection from 192.168.0.134:6674...
+2017-04-24 21:43:47,477 - t-1232045248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:43:47,477 - t-1232045248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:43:47,478 - t-1232045248 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:43:47,501 - t-1232045248 - INFO - wad - create experiment succeed
+2017-04-24 21:43:47,505 - t-1232045248 - INFO - wad - execute function:50
+2017-04-24 21:43:47,530 - t-1232045248 - INFO - wad - ack sent:{"group_id": "355", "data": "{\"check\": \"fcfac2b1d293674064f3864c9f8ebacd\", \"file_name\": \"020301.zip\"}", "function_id": "50", "device_id": "4"}
+2017-04-24 21:43:47,545 - t-1232045248 - INFO - wad - Accept new connection from 192.168.0.134:6675...
+2017-04-24 21:43:47,546 - t-1232045248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:43:47,547 - t-1232045248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:43:47,547 - t-1232045248 - INFO - wad - experiment exist
+2017-04-24 21:43:47,547 - t-1232045248 - INFO - wad - execute function:20
+2017-04-24 21:43:47,553 - t-1232045248 - INFO - wad - ack sent:{"group_id": "355", "data": "{\"state\": 0}", "function_id": "20", "device_id": "4"}
+2017-04-24 21:43:47,567 - t-1232045248 - INFO - wad - Accept new connection from 192.168.0.134:6676...
+2017-04-24 21:43:47,567 - t-1232045248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:43:47,568 - t-1232045248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:43:47,569 - t-1232045248 - INFO - wad - experiment exist
+2017-04-24 21:43:47,569 - t-1232045248 - INFO - wad - execute function:20
+2017-04-24 21:43:47,579 - t-1232045248 - INFO - wad - ack sent:{"group_id": "355", "data": "{\"state\": 0}", "function_id": "20", "device_id": "4"}
+2017-04-24 21:45:41,752 - t-1219291392 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:45:41,752 - t-1219291392 - INFO - wad - Load Setting Completed
+2017-04-24 21:45:41,753 - t-1219291392 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:45:55,929 - t-1231656128 - INFO - wad - Accept new connection from 192.168.0.134:6702...
+2017-04-24 21:45:55,930 - t-1231656128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:45:55,931 - t-1231656128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-24 21:45:55,931 - t-1231656128 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:45:56,008 - t-1231656128 - INFO - wad - create experiment succeed
+2017-04-24 21:45:56,009 - t-1231656128 - INFO - wad - execute function:50
+2017-04-24 21:45:56,050 - t-1231656128 - INFO - wad - ack sent:{"device_id": "4", "group_id": "355", "data": "{\"file_name\": \"020301.zip\", \"check\": \"fcfac2b1d293674064f3864c9f8ebacd\"}", "function_id": "50"}
+2017-04-24 21:45:56,058 - t-1231656128 - INFO - wad - Accept new connection from 192.168.0.134:6703...
+2017-04-24 21:45:56,058 - t-1231656128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:45:56,060 - t-1231656128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:45:56,061 - t-1231656128 - INFO - wad - experiment exist
+2017-04-24 21:45:56,061 - t-1231656128 - INFO - wad - execute function:20
+2017-04-24 21:45:56,101 - t-1231656128 - INFO - wad - ack sent:{"device_id": "4", "group_id": "355", "data": "{\"state\": 0}", "function_id": "20"}
+2017-04-24 21:45:56,113 - t-1231656128 - INFO - wad - Accept new connection from 192.168.0.134:6704...
+2017-04-24 21:45:56,114 - t-1231656128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:45:56,114 - t-1231656128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:45:56,114 - t-1231656128 - INFO - wad - experiment exist
+2017-04-24 21:45:56,115 - t-1231656128 - INFO - wad - execute function:20
+2017-04-24 21:45:56,128 - t-1231656128 - INFO - wad - ack sent:{"device_id": "4", "group_id": "355", "data": "{\"state\": 0}", "function_id": "20"}
+2017-04-24 21:52:59,077 - t-1231656128 - INFO - wad - Accept new connection from 192.168.0.134:6823...
+2017-04-24 21:52:59,078 - t-1231656128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:52:59,079 - t-1231656128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:52:59,080 - t-1231656128 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:52:59,241 - t-1231656128 - INFO - wad - create experiment succeed
+2017-04-24 21:52:59,241 - t-1231656128 - INFO - wad - execute function:50
+2017-04-24 21:53:02,475 - t-1241515200 - INFO - wad - Accept new connection from 192.168.0.134:6824...
+2017-04-24 21:53:02,476 - t-1241515200 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:53:02,477 - t-1241515200 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:53:02,480 - t-1241515200 - INFO - wad - experiment exist
+2017-04-24 21:53:02,480 - t-1241515200 - INFO - wad - execute function:50
+2017-04-24 21:53:02,623 - t-1231656128 - INFO - wad - ack sent:{"device_id": "4", "group_id": "356", "data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}", "function_id": "50"}
+2017-04-24 21:53:02,640 - t-1231656128 - INFO - wad - Accept new connection from 192.168.0.134:6825...
+2017-04-24 21:53:02,641 - t-1231656128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:02,642 - t-1231656128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:02,642 - t-1231656128 - INFO - wad - experiment exist
+2017-04-24 21:53:02,643 - t-1231656128 - INFO - wad - execute function:20
+2017-04-24 21:53:02,847 - t-1231656128 - INFO - wad - ack sent:{"device_id": "4", "group_id": "356", "data": "{\"state\": 0}", "function_id": "20"}
+2017-04-24 21:53:02,863 - t-1231656128 - INFO - wad - Accept new connection from 192.168.0.134:6826...
+2017-04-24 21:53:02,898 - t-1231656128 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:02,899 - t-1231656128 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:02,900 - t-1231656128 - INFO - wad - experiment exist
+2017-04-24 21:53:02,901 - t-1231656128 - INFO - wad - execute function:20
+2017-04-24 21:53:02,911 - t-1231656128 - INFO - wad - ack sent:{"device_id": "4", "group_id": "356", "data": "{\"state\": 0}", "function_id": "20"}
+2017-04-24 21:53:05,444 - t-1241515200 - INFO - wad - ack sent:{"device_id": "4", "group_id": "356", "data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}", "function_id": "50"}
+2017-04-24 21:53:05,456 - t-1241515200 - INFO - wad - Accept new connection from 192.168.0.134:6828...
+2017-04-24 21:53:05,457 - t-1241515200 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:05,457 - t-1241515200 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:05,458 - t-1241515200 - INFO - wad - experiment exist
+2017-04-24 21:53:05,458 - t-1241515200 - INFO - wad - execute function:20
+2017-04-24 21:53:05,547 - t-1241515200 - INFO - wad - ack sent:{"device_id": "4", "group_id": "356", "data": "{\"state\": 0}", "function_id": "20"}
+2017-04-24 21:53:05,557 - t-1241515200 - INFO - wad - Accept new connection from 192.168.0.134:6829...
+2017-04-24 21:53:05,557 - t-1241515200 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:05,557 - t-1241515200 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:53:05,558 - t-1241515200 - INFO - wad - experiment exist
+2017-04-24 21:53:05,558 - t-1241515200 - INFO - wad - execute function:20
+2017-04-24 21:53:05,560 - t-1241515200 - INFO - wad - ack sent:{"device_id": "4", "group_id": "356", "data": "{\"state\": 0}", "function_id": "20"}
+2017-04-24 21:54:10,014 - t-1219631360 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:54:10,015 - t-1219631360 - INFO - wad - Load Setting Completed
+2017-04-24 21:54:10,015 - t-1219631360 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:54:17,242 - t-1231996096 - INFO - wad - Accept new connection from 192.168.0.134:6855...
+2017-04-24 21:54:17,244 - t-1231996096 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:54:17,244 - t-1231996096 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:54:17,244 - t-1231996096 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:54:17,444 - t-1231996096 - INFO - wad - create experiment succeed
+2017-04-24 21:54:17,444 - t-1231996096 - INFO - wad - execute function:50
+2017-04-24 21:54:21,417 - t-1231996096 - INFO - wad - ack sent:{"function_id": "50", "data": "{\"file_name\": \"030101.zip\", \"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\"}", "group_id": "356", "device_id": "4"}
+2017-04-24 21:54:21,430 - t-1231996096 - INFO - wad - Accept new connection from 192.168.0.134:6857...
+2017-04-24 21:54:21,431 - t-1231996096 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:54:21,431 - t-1231996096 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:54:21,432 - t-1231996096 - INFO - wad - experiment exist
+2017-04-24 21:54:21,432 - t-1231996096 - INFO - wad - execute function:20
+2017-04-24 21:54:21,588 - t-1231996096 - INFO - wad - ack sent:{"function_id": "20", "data": "{\"state\": 0}", "group_id": "356", "device_id": "4"}
+2017-04-24 21:54:21,603 - t-1231996096 - INFO - wad - Accept new connection from 192.168.0.134:6858...
+2017-04-24 21:54:21,604 - t-1231996096 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:54:21,608 - t-1231996096 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:54:21,608 - t-1231996096 - INFO - wad - experiment exist
+2017-04-24 21:54:21,609 - t-1231996096 - INFO - wad - execute function:20
+2017-04-24 21:54:21,613 - t-1231996096 - INFO - wad - ack sent:{"function_id": "20", "data": "{\"state\": 0}", "group_id": "356", "device_id": "4"}
+2017-04-24 21:57:17,241 - t-1219426560 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-24 21:57:17,242 - t-1219426560 - INFO - wad - Load Setting Completed
+2017-04-24 21:57:17,242 - t-1219426560 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-24 21:57:37,950 - t-1231791296 - INFO - wad - Accept new connection from 192.168.0.134:6909...
+2017-04-24 21:57:37,955 - t-1231791296 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:57:37,956 - t-1231791296 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030101","group_id":"356","data":{"file_url":"/file/download/030101.zip","file_name":"030101.zip"}}'
+2017-04-24 21:57:37,956 - t-1231791296 - INFO - wad - experiment not found, creating ...
+2017-04-24 21:57:38,082 - t-1231791296 - INFO - wad - create experiment succeed
+2017-04-24 21:57:38,082 - t-1231791296 - INFO - wad - execute function:50
+2017-04-24 21:57:42,170 - t-1231791296 - INFO - wad - ack sent:{"function_id": "50", "data": "{\"check\": \"04d991e3e854e0dbb1ed848b100b0aa1\", \"file_name\": \"030101.zip\"}", "group_id": "356", "device_id": "4"}
+2017-04-24 21:57:42,188 - t-1231791296 - INFO - wad - Accept new connection from 192.168.0.134:6911...
+2017-04-24 21:57:42,188 - t-1231791296 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:57:42,191 - t-1231791296 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:57:42,191 - t-1231791296 - INFO - wad - experiment exist
+2017-04-24 21:57:42,192 - t-1231791296 - INFO - wad - execute function:20
+2017-04-24 21:57:42,301 - t-1231791296 - INFO - wad - ack sent:{"function_id": "20", "data": "{\"state\": 0}", "group_id": "356", "device_id": "4"}
+2017-04-24 21:57:42,314 - t-1231791296 - INFO - wad - Accept new connection from 192.168.0.134:6912...
+2017-04-24 21:57:42,315 - t-1231791296 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:57:42,316 - t-1231791296 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030101","group_id":"356","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-24 21:57:42,316 - t-1231791296 - INFO - wad - experiment exist
+2017-04-24 21:57:42,317 - t-1231791296 - INFO - wad - execute function:20
+2017-04-24 21:57:42,321 - t-1231791296 - INFO - wad - ack sent:{"function_id": "20", "data": "{\"state\": 0}", "group_id": "356", "device_id": "4"}
+2017-04-25 08:09:43,768 - t-1219279104 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 08:09:43,770 - t-1219279104 - INFO - wad - Load Setting Completed
+2017-04-25 08:09:43,770 - t-1219279104 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 08:09:56,248 - t-1231643840 - INFO - wad - Accept new connection from 192.168.0.134:9333...
+2017-04-25 08:09:56,250 - t-1231643840 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-25 08:09:56,250 - t-1231643840 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"354","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-25 08:09:56,251 - t-1231643840 - INFO - wad - experiment not found, creating ...
+2017-04-25 08:09:56,286 - t-1231643840 - INFO - wad - create experiment succeed
+2017-04-25 08:09:56,286 - t-1231643840 - INFO - wad - execute function:50
+2017-04-25 08:09:56,377 - t-1231643840 - INFO - wad - ack sent:{"device_id": "4", "function_id": "50", "data": "{\"file_name\": \"020201.zip\", \"check\": \"caafeddf6c4bc29a6cc103ea61419a09\"}", "group_id": "354"}
+2017-04-25 08:09:56,385 - t-1231643840 - INFO - wad - Accept new connection from 192.168.0.134:9335...
+2017-04-25 08:09:56,385 - t-1231643840 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:09:56,386 - t-1231643840 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:09:56,386 - t-1231643840 - INFO - wad - experiment exist
+2017-04-25 08:09:56,386 - t-1231643840 - INFO - wad - execute function:20
+2017-04-25 08:09:56,436 - t-1231643840 - INFO - wad - ack sent:{"device_id": "4", "function_id": "20", "data": "{\"state\": 0}", "group_id": "354"}
+2017-04-25 08:09:56,446 - t-1231643840 - INFO - wad - Accept new connection from 192.168.0.134:9336...
+2017-04-25 08:09:56,447 - t-1231643840 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:09:56,448 - t-1231643840 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"354","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:09:56,449 - t-1231643840 - INFO - wad - experiment exist
+2017-04-25 08:09:56,449 - t-1231643840 - INFO - wad - execute function:20
+2017-04-25 08:09:56,456 - t-1231643840 - INFO - wad - ack sent:{"device_id": "4", "function_id": "20", "data": "{\"state\": 0}", "group_id": "354"}
+2017-04-25 08:11:52,341 - t-1231643840 - INFO - wad - Accept new connection from 192.168.0.134:9364...
+2017-04-25 08:11:52,342 - t-1231643840 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-25 08:11:52,342 - t-1231643840 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020301","group_id":"355","data":{"file_url":"/file/download/020301.zip","file_name":"020301.zip"}}'
+2017-04-25 08:11:52,343 - t-1231643840 - INFO - wad - experiment not found, creating ...
+2017-04-25 08:11:52,369 - t-1231643840 - INFO - wad - create experiment succeed
+2017-04-25 08:11:52,370 - t-1231643840 - INFO - wad - execute function:50
+2017-04-25 08:11:52,429 - t-1231643840 - INFO - wad - ack sent:{"device_id": "4", "function_id": "50", "data": "{\"file_name\": \"020301.zip\", \"check\": \"fcfac2b1d293674064f3864c9f8ebacd\"}", "group_id": "355"}
+2017-04-25 08:11:52,439 - t-1231643840 - INFO - wad - Accept new connection from 192.168.0.134:9365...
+2017-04-25 08:11:52,440 - t-1231643840 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:11:52,441 - t-1231643840 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:11:52,442 - t-1231643840 - INFO - wad - experiment exist
+2017-04-25 08:11:52,442 - t-1231643840 - INFO - wad - execute function:20
+2017-04-25 08:11:52,448 - t-1231643840 - INFO - wad - ack sent:{"device_id": "4", "function_id": "20", "data": "{\"state\": 0}", "group_id": "355"}
+2017-04-25 08:11:52,458 - t-1231643840 - INFO - wad - Accept new connection from 192.168.0.134:9366...
+2017-04-25 08:11:52,459 - t-1231643840 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:11:52,459 - t-1231643840 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020301","group_id":"355","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 08:11:52,460 - t-1231643840 - INFO - wad - experiment exist
+2017-04-25 08:11:52,460 - t-1231643840 - INFO - wad - execute function:20
+2017-04-25 08:11:52,466 - t-1231643840 - INFO - wad - ack sent:{"device_id": "4", "function_id": "20", "data": "{\"state\": 0}", "group_id": "355"}
+2017-04-25 11:55:36,781 - t-1219541248 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 11:55:36,784 - t-1219541248 - INFO - wad - Load Setting Completed
+2017-04-25 11:55:36,784 - t-1219541248 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 12:00:08,319 - t-1231905984 - INFO - wad - Accept new connection from 192.168.0.148:51014...
+2017-04-25 12:00:08,320 - t-1231905984 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"357","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-25 12:00:08,321 - t-1231905984 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"020201","group_id":"357","data":{"file_url":"/file/download/020201.zip","file_name":"020201.zip"}}'
+2017-04-25 12:00:08,321 - t-1231905984 - INFO - wad - experiment not found, creating ...
+2017-04-25 12:00:08,357 - t-1231905984 - INFO - wad - create experiment succeed
+2017-04-25 12:00:08,358 - t-1231905984 - INFO - wad - execute function:50
+2017-04-25 12:00:08,410 - t-1231905984 - INFO - wad - ack sent:{"data": "{\"file_name\": \"020201.zip\", \"check\": \"caafeddf6c4bc29a6cc103ea61419a09\"}", "function_id": "50", "device_id": "4", "group_id": "357"}
+2017-04-25 12:00:08,425 - t-1231905984 - INFO - wad - Accept new connection from 192.168.0.148:51015...
+2017-04-25 12:00:08,426 - t-1231905984 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"357","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:00:08,427 - t-1231905984 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"357","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:00:08,427 - t-1231905984 - INFO - wad - experiment exist
+2017-04-25 12:00:08,428 - t-1231905984 - INFO - wad - execute function:20
+2017-04-25 12:00:08,453 - t-1231905984 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "357"}
+2017-04-25 12:00:08,470 - t-1231905984 - INFO - wad - Accept new connection from 192.168.0.148:51016...
+2017-04-25 12:00:08,476 - t-1231905984 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"357","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:00:08,476 - t-1231905984 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"020201","group_id":"357","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:00:08,477 - t-1231905984 - INFO - wad - experiment exist
+2017-04-25 12:00:08,478 - t-1231905984 - INFO - wad - execute function:20
+2017-04-25 12:00:08,484 - t-1231905984 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "357"}
+2017-04-25 12:03:29,245 - t-1231905984 - INFO - wad - Accept new connection from 192.168.0.148:51056...
+2017-04-25 12:03:29,247 - t-1231905984 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"358","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 12:03:29,248 - t-1231905984 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"358","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 12:03:29,249 - t-1231905984 - INFO - wad - experiment not found, creating ...
+2017-04-25 12:03:29,464 - t-1231905984 - INFO - wad - create experiment succeed
+2017-04-25 12:03:29,465 - t-1231905984 - INFO - wad - execute function:50
+2017-04-25 12:03:35,359 - t-1231905984 - INFO - wad - ack sent:{"data": "{\"file_name\": \"030201.zip\", \"check\": \"1cf352e21db52b128aadc02fb6207d4c\"}", "function_id": "50", "device_id": "4", "group_id": "358"}
+2017-04-25 12:03:35,377 - t-1231905984 - INFO - wad - Accept new connection from 192.168.0.148:51057...
+2017-04-25 12:03:35,397 - t-1231905984 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:03:35,399 - t-1231905984 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:03:35,403 - t-1231905984 - INFO - wad - experiment exist
+2017-04-25 12:03:35,403 - t-1231905984 - INFO - wad - execute function:20
+2017-04-25 12:03:35,551 - t-1231905984 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "358"}
+2017-04-25 12:03:35,564 - t-1231905984 - INFO - wad - Accept new connection from 192.168.0.148:51058...
+2017-04-25 12:03:35,565 - t-1231905984 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:03:35,565 - t-1231905984 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:03:35,567 - t-1231905984 - INFO - wad - experiment exist
+2017-04-25 12:03:35,567 - t-1231905984 - INFO - wad - execute function:20
+2017-04-25 12:03:35,571 - t-1231905984 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "358"}
+2017-04-25 12:09:50,586 - t-1220192512 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 12:09:50,588 - t-1220192512 - INFO - wad - Load Setting Completed
+2017-04-25 12:09:50,588 - t-1220192512 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 12:10:10,167 - t-1232557248 - INFO - wad - Accept new connection from 192.168.0.148:51083...
+2017-04-25 12:10:10,169 - t-1232557248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"358","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 12:10:10,169 - t-1232557248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"358","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 12:10:10,170 - t-1232557248 - INFO - wad - experiment not found, creating ...
+2017-04-25 12:10:10,457 - t-1232557248 - INFO - wad - create experiment succeed
+2017-04-25 12:10:10,457 - t-1232557248 - INFO - wad - execute function:50
+2017-04-25 12:10:14,957 - t-1232557248 - INFO - wad - ack sent:{"data": "{\"check\": \"1cf352e21db52b128aadc02fb6207d4c\", \"file_name\": \"030201.zip\"}", "device_id": "4", "group_id": "358", "function_id": "50"}
+2017-04-25 12:10:14,985 - t-1232557248 - INFO - wad - Accept new connection from 192.168.0.148:51084...
+2017-04-25 12:10:14,985 - t-1232557248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:10:14,988 - t-1232557248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:10:14,988 - t-1232557248 - INFO - wad - experiment exist
+2017-04-25 12:10:14,988 - t-1232557248 - INFO - wad - execute function:20
+2017-04-25 12:10:15,245 - t-1232557248 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "358", "function_id": "20"}
+2017-04-25 12:10:15,259 - t-1232557248 - INFO - wad - Accept new connection from 192.168.0.148:51085...
+2017-04-25 12:10:15,259 - t-1232557248 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:10:15,260 - t-1232557248 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:10:15,261 - t-1232557248 - INFO - wad - experiment exist
+2017-04-25 12:10:15,261 - t-1232557248 - INFO - wad - execute function:20
+2017-04-25 12:10:15,266 - t-1232557248 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "device_id": "4", "group_id": "358", "function_id": "20"}
+2017-04-25 12:11:33,121 - t-1220208896 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 12:11:33,122 - t-1220208896 - INFO - wad - Load Setting Completed
+2017-04-25 12:11:33,122 - t-1220208896 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 12:11:45,209 - t-1232573632 - INFO - wad - Accept new connection from 192.168.0.148:51094...
+2017-04-25 12:11:45,211 - t-1232573632 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"358","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 12:11:45,211 - t-1232573632 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"358","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 12:11:45,211 - t-1232573632 - INFO - wad - experiment not found, creating ...
+2017-04-25 12:11:45,453 - t-1232573632 - INFO - wad - create experiment succeed
+2017-04-25 12:11:45,454 - t-1232573632 - INFO - wad - execute function:50
+2017-04-25 12:11:50,402 - t-1232573632 - INFO - wad - ack sent:{"device_id": "4", "data": "{\"check\": \"1cf352e21db52b128aadc02fb6207d4c\", \"file_name\": \"030201.zip\"}", "group_id": "358", "function_id": "50"}
+2017-04-25 12:11:50,415 - t-1232573632 - INFO - wad - Accept new connection from 192.168.0.148:51096...
+2017-04-25 12:11:50,416 - t-1232573632 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:11:50,416 - t-1232573632 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:11:50,417 - t-1232573632 - INFO - wad - experiment exist
+2017-04-25 12:11:50,417 - t-1232573632 - INFO - wad - execute function:20
+2017-04-25 12:11:50,555 - t-1232573632 - INFO - wad - ack sent:{"device_id": "4", "data": "{\"state\": 0}", "group_id": "358", "function_id": "20"}
+2017-04-25 12:11:50,567 - t-1232573632 - INFO - wad - Accept new connection from 192.168.0.148:51097...
+2017-04-25 12:11:50,567 - t-1232573632 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:11:50,568 - t-1232573632 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"358","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 12:11:50,568 - t-1232573632 - INFO - wad - experiment exist
+2017-04-25 12:11:50,568 - t-1232573632 - INFO - wad - execute function:20
+2017-04-25 12:11:50,572 - t-1232573632 - INFO - wad - ack sent:{"device_id": "4", "data": "{\"state\": 0}", "group_id": "358", "function_id": "20"}
+2017-04-25 14:18:30,428 - t-1219561728 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 14:18:30,428 - t-1219561728 - INFO - wad - Load Setting Completed
+2017-04-25 14:18:30,429 - t-1219561728 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 14:29:25,293 - t-1220032768 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 14:29:25,294 - t-1220032768 - INFO - wad - Load Setting Completed
+2017-04-25 14:29:25,294 - t-1220032768 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 14:30:05,520 - t-1232397504 - INFO - wad - Accept new connection from 192.168.0.148:53997...
+2017-04-25 14:30:05,521 - t-1232397504 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:30:05,522 - t-1232397504 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:30:05,522 - t-1232397504 - INFO - wad - experiment not found, creating ...
+2017-04-25 14:30:05,663 - t-1232397504 - INFO - wad - create experiment succeed
+2017-04-25 14:30:05,664 - t-1232397504 - INFO - wad - execute function:50
+2017-04-25 14:30:11,074 - t-1232397504 - INFO - wad - ack sent:{"data": "{\"file_name\": \"030201.zip\", \"check\": \"1cf352e21db52b128aadc02fb6207d4c\"}", "group_id": "361", "function_id": "50", "device_id": "4"}
+2017-04-25 14:30:11,111 - t-1232397504 - INFO - wad - Accept new connection from 192.168.0.148:54003...
+2017-04-25 14:30:11,111 - t-1232397504 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:30:11,112 - t-1232397504 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:30:11,112 - t-1232397504 - INFO - wad - experiment exist
+2017-04-25 14:30:11,113 - t-1232397504 - INFO - wad - execute function:20
+2017-04-25 14:30:11,361 - t-1232397504 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "group_id": "361", "function_id": "20", "device_id": "4"}
+2017-04-25 14:30:11,379 - t-1232397504 - INFO - wad - Accept new connection from 192.168.0.148:54004...
+2017-04-25 14:30:11,380 - t-1232397504 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:30:11,380 - t-1232397504 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:30:11,381 - t-1232397504 - INFO - wad - experiment exist
+2017-04-25 14:30:11,381 - t-1232397504 - INFO - wad - execute function:20
+2017-04-25 14:30:11,386 - t-1232397504 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "group_id": "361", "function_id": "20", "device_id": "4"}
+2017-04-25 14:34:05,931 - t-1219721472 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 14:34:05,934 - t-1219721472 - INFO - wad - Load Setting Completed
+2017-04-25 14:34:05,935 - t-1219721472 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 14:34:19,848 - t-1232086208 - INFO - wad - Accept new connection from 192.168.0.148:54098...
+2017-04-25 14:34:19,849 - t-1232086208 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:34:19,850 - t-1232086208 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:34:19,850 - t-1232086208 - INFO - wad - experiment not found, creating ...
+2017-04-25 14:34:20,211 - t-1232086208 - INFO - wad - create experiment succeed
+2017-04-25 14:34:20,211 - t-1232086208 - INFO - wad - execute function:50
+2017-04-25 14:34:25,179 - t-1232086208 - INFO - wad - ack sent:{"group_id": "361", "device_id": "4", "function_id": "50", "data": "{\"file_name\": \"030201.zip\", \"check\": \"1cf352e21db52b128aadc02fb6207d4c\"}"}
+2017-04-25 14:34:25,326 - t-1232086208 - INFO - wad - Accept new connection from 192.168.0.148:54101...
+2017-04-25 14:34:25,327 - t-1232086208 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:34:25,328 - t-1232086208 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:34:25,328 - t-1232086208 - INFO - wad - experiment exist
+2017-04-25 14:34:25,328 - t-1232086208 - INFO - wad - execute function:20
+2017-04-25 14:34:25,514 - t-1232086208 - INFO - wad - ack sent:{"group_id": "361", "device_id": "4", "function_id": "20", "data": "{\"state\": 0}"}
+2017-04-25 14:34:25,539 - t-1232086208 - INFO - wad - Accept new connection from 192.168.0.148:54102...
+2017-04-25 14:34:25,586 - t-1232086208 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:34:25,586 - t-1232086208 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:34:25,586 - t-1232086208 - INFO - wad - experiment exist
+2017-04-25 14:34:25,587 - t-1232086208 - INFO - wad - execute function:20
+2017-04-25 14:34:25,593 - t-1232086208 - INFO - wad - ack sent:{"group_id": "361", "device_id": "4", "function_id": "20", "data": "{\"state\": 0}"}
+2017-04-25 14:36:37,971 - t-1219602688 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 14:36:37,971 - t-1219602688 - INFO - wad - Load Setting Completed
+2017-04-25 14:36:37,972 - t-1219602688 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 14:36:48,343 - t-1231967424 - INFO - wad - Accept new connection from 192.168.0.148:54134...
+2017-04-25 14:36:48,344 - t-1231967424 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:36:48,345 - t-1231967424 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:36:48,345 - t-1231967424 - INFO - wad - experiment not found, creating ...
+2017-04-25 14:36:48,616 - t-1231967424 - INFO - wad - create experiment succeed
+2017-04-25 14:36:48,617 - t-1231967424 - INFO - wad - execute function:50
+2017-04-25 14:36:51,925 - t-1231967424 - INFO - wad - ack sent:{"data": "{\"check\": \"1cf352e21db52b128aadc02fb6207d4c\", \"file_name\": \"030201.zip\"}", "function_id": "50", "device_id": "4", "group_id": "361"}
+2017-04-25 14:36:51,932 - t-1231967424 - INFO - wad - Accept new connection from 192.168.0.148:54136...
+2017-04-25 14:36:51,933 - t-1231967424 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:36:51,933 - t-1231967424 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:36:51,933 - t-1231967424 - INFO - wad - experiment exist
+2017-04-25 14:36:51,934 - t-1231967424 - INFO - wad - execute function:20
+2017-04-25 14:36:52,050 - t-1231967424 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "361"}
+2017-04-25 14:36:52,059 - t-1231967424 - INFO - wad - Accept new connection from 192.168.0.148:54137...
+2017-04-25 14:36:52,060 - t-1231967424 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:36:52,060 - t-1231967424 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:36:52,060 - t-1231967424 - INFO - wad - experiment exist
+2017-04-25 14:36:52,060 - t-1231967424 - INFO - wad - execute function:20
+2017-04-25 14:36:52,066 - t-1231967424 - INFO - wad - ack sent:{"data": "{\"state\": 0}", "function_id": "20", "device_id": "4", "group_id": "361"}
+2017-04-25 14:37:17,664 - t-1219868928 - INFO - wad - Welcome to Wireless Attacking & Defence BackEnd
+2017-04-25 14:37:17,664 - t-1219868928 - INFO - wad - Load Setting Completed
+2017-04-25 14:37:17,665 - t-1219868928 - INFO - wad - Listen on 0.0.0.0:8000
+2017-04-25 14:37:17,877 - t-1232233664 - INFO - wad - Accept new connection from 192.168.0.148:54144...
+2017-04-25 14:37:17,879 - t-1232233664 - INFO - wad - receiving :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:37:17,880 - t-1232233664 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"50","experiment_id":"030201","group_id":"361","data":{"file_url":"/file/download/030201.zip","file_name":"030201.zip"}}'
+2017-04-25 14:37:17,880 - t-1232233664 - INFO - wad - experiment not found, creating ...
+2017-04-25 14:37:17,970 - t-1232233664 - INFO - wad - create experiment succeed
+2017-04-25 14:37:17,971 - t-1232233664 - INFO - wad - execute function:50
+2017-04-25 14:37:21,990 - t-1232233664 - INFO - wad - ack sent:{"group_id": "361", "data": "{\"file_name\": \"030201.zip\", \"check\": \"1cf352e21db52b128aadc02fb6207d4c\"}", "function_id": "50", "device_id": "4"}
+2017-04-25 14:37:21,997 - t-1232233664 - INFO - wad - Accept new connection from 192.168.0.148:54145...
+2017-04-25 14:37:21,998 - t-1232233664 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:37:21,998 - t-1232233664 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":true,"start":false,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:37:21,999 - t-1232233664 - INFO - wad - experiment exist
+2017-04-25 14:37:21,999 - t-1232233664 - INFO - wad - execute function:20
+2017-04-25 14:37:22,123 - t-1232233664 - INFO - wad - ack sent:{"group_id": "361", "data": "{\"state\": 0}", "function_id": "20", "device_id": "4"}
+2017-04-25 14:37:22,137 - t-1232233664 - INFO - wad - Accept new connection from 192.168.0.148:54146...
+2017-04-25 14:37:22,139 - t-1232233664 - INFO - wad - receiving :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:37:22,139 - t-1232233664 - INFO - wad - receive data completed :b'{"device_id":"4","function_id":"20","experiment_id":"030201","group_id":"361","data":{"init":false,"start":true,"stop":false,"reset":false,"clear":false}}'
+2017-04-25 14:37:22,140 - t-1232233664 - INFO - wad - experiment exist
+2017-04-25 14:37:22,140 - t-1232233664 - INFO - wad - execute function:20
+2017-04-25 14:37:22,144 - t-1232233664 - INFO - wad - ack sent:{"group_id": "361", "data": "{\"state\": 0}", "function_id": "20", "device_id": "4"}

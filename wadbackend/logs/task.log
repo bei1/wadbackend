@@ -1,0 +1,92 @@
+2017-04-24 21:09:53,300 - t-1232123072 - INFO - task - function: task_receive_files result: {"file_name": "020201.zip", "check": "caafeddf6c4bc29a6cc103ea61419a09"}
+2017-04-24 21:09:53,328 - t-1232123072 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:09:53,349 - t-1232123072 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:14:54,552 - t-1231639744 - INFO - task - function: task_receive_files result: {"check": "caafeddf6c4bc29a6cc103ea61419a09", "file_name": "020201.zip"}
+2017-04-24 21:14:54,708 - t-1231639744 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:14:54,817 - t-1231639744 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:16:31,498 - t-1231639744 - INFO - task - function: task_receive_files result: {"file_name": "020201.zip", "check": "caafeddf6c4bc29a6cc103ea61419a09"}
+2017-04-24 21:16:31,566 - t-1231639744 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:16:31,607 - t-1231639744 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:17:34,669 - t-1232229568 - INFO - task - function: task_receive_files result: {"check": "caafeddf6c4bc29a6cc103ea61419a09", "file_name": "020201.zip"}
+2017-04-24 21:17:34,711 - t-1232229568 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:17:34,729 - t-1232229568 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:19:37,708 - t-1253049536 - INFO - task - function: task_receive_files result: {"check": "fcfac2b1d293674064f3864c9f8ebacd", "file_name": "020301.zip"}
+2017-04-24 21:19:37,744 - t-1253049536 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:19:37,760 - t-1253049536 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:23:23,385 - t-1232028864 - INFO - task - function: task_receive_files result: {"file_name": "020301.zip", "check": "fcfac2b1d293674064f3864c9f8ebacd"}
+2017-04-24 21:23:23,420 - t-1232028864 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:23:23,442 - t-1232028864 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:26:07,469 - t-1262486720 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:26:07,690 - t-1262486720 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:26:07,703 - t-1262486720 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:31:32,631 - t-1241896128 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:31:32,759 - t-1241896128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:31:32,776 - t-1241896128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:31:54,412 - t-1241896128 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:31:54,679 - t-1241896128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:31:54,695 - t-1241896128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:32:40,398 - t-1262486720 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:32:50,930 - t-1232266432 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:32:51,041 - t-1232266432 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:32:51,061 - t-1232266432 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:33:02,434 - t-1232266432 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:33:02,579 - t-1232266432 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:33:02,589 - t-1232266432 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:34:22,545 - t-1253049536 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:34:22,753 - t-1253049536 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:34:22,771 - t-1253049536 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:35:32,547 - t-1242563776 - INFO - task - function: task_receive_files result: {"file_name": "030201.zip", "check": "1cf352e21db52b128aadc02fb6207d4c"}
+2017-04-24 21:35:32,794 - t-1242563776 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:35:32,805 - t-1242563776 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:38:37,047 - t-1232045248 - INFO - task - function: task_receive_files result: {"check": "caafeddf6c4bc29a6cc103ea61419a09", "file_name": "020201.zip"}
+2017-04-24 21:40:57,868 - t-1232045248 - INFO - task - function: task_receive_files result: {"check": "caafeddf6c4bc29a6cc103ea61419a09", "file_name": "020201.zip"}
+2017-04-24 21:40:57,953 - t-1232045248 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:40:57,986 - t-1232045248 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:43:47,528 - t-1232045248 - INFO - task - function: task_receive_files result: {"check": "fcfac2b1d293674064f3864c9f8ebacd", "file_name": "020301.zip"}
+2017-04-24 21:43:47,553 - t-1232045248 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:43:47,577 - t-1232045248 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:45:56,049 - t-1231656128 - INFO - task - function: task_receive_files result: {"file_name": "020301.zip", "check": "fcfac2b1d293674064f3864c9f8ebacd"}
+2017-04-24 21:45:56,099 - t-1231656128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:45:56,126 - t-1231656128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:53:02,622 - t-1231656128 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:53:02,844 - t-1231656128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:53:02,911 - t-1231656128 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:53:05,443 - t-1241515200 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:53:05,547 - t-1241515200 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:53:05,559 - t-1241515200 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:54:21,416 - t-1231996096 - INFO - task - function: task_receive_files result: {"file_name": "030101.zip", "check": "04d991e3e854e0dbb1ed848b100b0aa1"}
+2017-04-24 21:54:21,587 - t-1231996096 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:54:21,612 - t-1231996096 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:57:42,166 - t-1231791296 - INFO - task - function: task_receive_files result: {"check": "04d991e3e854e0dbb1ed848b100b0aa1", "file_name": "030101.zip"}
+2017-04-24 21:57:42,300 - t-1231791296 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-24 21:57:42,320 - t-1231791296 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 08:09:56,372 - t-1231643840 - INFO - task - function: task_receive_files result: {"file_name": "020201.zip", "check": "caafeddf6c4bc29a6cc103ea61419a09"}
+2017-04-25 08:09:56,435 - t-1231643840 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 08:09:56,455 - t-1231643840 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 08:11:52,428 - t-1231643840 - INFO - task - function: task_receive_files result: {"file_name": "020301.zip", "check": "fcfac2b1d293674064f3864c9f8ebacd"}
+2017-04-25 08:11:52,447 - t-1231643840 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 08:11:52,465 - t-1231643840 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:00:08,406 - t-1231905984 - INFO - task - function: task_receive_files result: {"file_name": "020201.zip", "check": "caafeddf6c4bc29a6cc103ea61419a09"}
+2017-04-25 12:00:08,452 - t-1231905984 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:00:08,483 - t-1231905984 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:03:35,357 - t-1231905984 - INFO - task - function: task_receive_files result: {"file_name": "030201.zip", "check": "1cf352e21db52b128aadc02fb6207d4c"}
+2017-04-25 12:03:35,550 - t-1231905984 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:03:35,570 - t-1231905984 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:10:14,956 - t-1232557248 - INFO - task - function: task_receive_files result: {"check": "1cf352e21db52b128aadc02fb6207d4c", "file_name": "030201.zip"}
+2017-04-25 12:10:15,245 - t-1232557248 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:10:15,265 - t-1232557248 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:11:50,401 - t-1232573632 - INFO - task - function: task_receive_files result: {"check": "1cf352e21db52b128aadc02fb6207d4c", "file_name": "030201.zip"}
+2017-04-25 12:11:50,554 - t-1232573632 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 12:11:50,572 - t-1232573632 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:30:11,067 - t-1232397504 - INFO - task - function: task_receive_files result: {"file_name": "030201.zip", "check": "1cf352e21db52b128aadc02fb6207d4c"}
+2017-04-25 14:30:11,361 - t-1232397504 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:30:11,385 - t-1232397504 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:34:25,178 - t-1232086208 - INFO - task - function: task_receive_files result: {"file_name": "030201.zip", "check": "1cf352e21db52b128aadc02fb6207d4c"}
+2017-04-25 14:34:25,513 - t-1232086208 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:34:25,592 - t-1232086208 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:36:51,924 - t-1231967424 - INFO - task - function: task_receive_files result: {"check": "1cf352e21db52b128aadc02fb6207d4c", "file_name": "030201.zip"}
+2017-04-25 14:36:52,050 - t-1231967424 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:36:52,065 - t-1231967424 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:37:21,989 - t-1232233664 - INFO - task - function: task_receive_files result: {"file_name": "030201.zip", "check": "1cf352e21db52b128aadc02fb6207d4c"}
+2017-04-25 14:37:22,122 - t-1232233664 - INFO - task - function: task_execute_command result: {"state": 0}
+2017-04-25 14:37:22,143 - t-1232233664 - INFO - task - function: task_execute_command result: {"state": 0}
